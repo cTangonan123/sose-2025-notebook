@@ -42,7 +42,10 @@ yarn start
 
 
 ---
-# Docs
-|
+# Docs Directory
+|Document Title|
+|---|
+|[Excalidraw Issues Possible](./docs/Excalidraw_Issues_Possible.md)|
+|[Understanding the Codebase](./docs/Understanding_Codebase.md)|
 
 
